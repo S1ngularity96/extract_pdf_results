@@ -8,7 +8,7 @@ install on Ubuntu/Debian with sudo apt install pdfgrep pdftk
 
 ## What you need to know
 
-I did not write this script myself, so I copied it from [Ask Ubuntu](https://askubuntu.com/questions/454934/how-can-i-extract-pages-containing-a-given-string-from-a-pdf-file) and copied it here.
+I did not write this script myself, so I copied it from [Ask Ubuntu](https://askubuntu.com/questions/454934/how-can-i-extract-pages-containing-a-given-string-from-a-pdf-file) and pasted it here.
 
 ## Example
 
